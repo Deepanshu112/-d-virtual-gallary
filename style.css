@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-
+    font-family: poppins;
 }
 
 .hero {
@@ -24,4 +24,8 @@
     width: 360px;
     height: 500px;
 
+}
+p{
+    color:white;
+    font-size:5vh;
 }
