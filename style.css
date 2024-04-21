@@ -4,10 +4,12 @@
     font-family: poppins;
 }
 
+
+
 .hero {
     width: 100%;
     height: 100vh;
-    background: #0a1128;
+    /* background: #0a1128; */
     overflow: hidden;
 }
 
